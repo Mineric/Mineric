@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mineric
-- 👀 I’m interested in Algorithms
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me mineric.tech@gmail.com
